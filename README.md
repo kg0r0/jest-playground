@@ -4,7 +4,7 @@
 $ npm t
 ```
 
-# References
+## References
 - https://typescript-jp.gitbook.io/deep-dive/nodejs
 - https://typescript-jp.gitbook.io/deep-dive/intro-1/jest
 - https://jestjs.io/ja/docs/mock-functions
